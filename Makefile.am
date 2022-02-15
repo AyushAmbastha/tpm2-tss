@@ -42,7 +42,7 @@ noinst_PROGRAMS =
 
 ### Add ax_* rules ###
 # ax_code_coverage
-@CODE_COVERAGE_RULES@
+	@CODE_COVERAGE_RULES@
 
 # ax_doxygen
 @DX_RULES@
